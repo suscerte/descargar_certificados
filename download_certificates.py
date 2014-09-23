@@ -1,4 +1,3 @@
-#!/usr/lib/python3
 import urllib
 
 direccion = "http://acraiz.suscerte.gob.ve/sites/default/files/certificados/"
